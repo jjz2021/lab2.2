@@ -1,5 +1,5 @@
 var texts="I am your JavaScript Program";
 
-console.log(texts);
+  console.log(texts);
 
 
